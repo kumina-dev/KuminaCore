@@ -1,4 +1,4 @@
-package ml.kumina;
+package ml.kumina.api;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

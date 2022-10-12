@@ -1,4 +1,4 @@
-package ml.kumina;
+package ml.kumina.api;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
